@@ -9,7 +9,6 @@ this is a angular's app repository
 * member01
 * member02
 * member03
-<<<<<<< HEAD
-* member05
+* member06
 
 ---
